@@ -65,6 +65,9 @@ Model View Controller (Модель-Представление-Контролл�
 фильтры;
 виджеты.
 
+.. image:: 
+   :alt: Гифка
+   :width: 100
 
 .. autosummary::
    :toctree: generated
