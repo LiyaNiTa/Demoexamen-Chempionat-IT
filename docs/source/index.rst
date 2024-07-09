@@ -16,6 +16,7 @@ Contents
 
 .. toctree::
 
+   installation
    Yii 
    WordPress
    usage
