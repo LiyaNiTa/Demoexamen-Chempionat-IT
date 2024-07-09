@@ -1,17 +1,15 @@
+.. image:: /_static/logo.gif
+   :alt: Гифка
+   :width: 100
 Разработчик веб и мультимедийных приложений
 ======================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Подготовка к демонстрационному экзамену по специальности 09.02.07 Информационные системы и программирование: **Разработчик веб и мультимедийных приложений**
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Задание тут: https://bom.firpo.ru/Public/87 
 
 Contents
 --------
@@ -19,5 +17,6 @@ Contents
 .. toctree::
 
    Yii 
+   WordPress
    usage
    api
