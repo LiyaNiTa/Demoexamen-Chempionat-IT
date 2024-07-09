@@ -4,7 +4,7 @@
 
 project = 'Демоэкзамен по веб-разработке'
 copyright = '2024, JV&LN'
-author = ''JV&LN'
+author = 'JV&LN'
 
 release = '0.1'
 version = '0.1.0'
