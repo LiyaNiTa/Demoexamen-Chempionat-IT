@@ -19,5 +19,4 @@ Contents
    installation
    Yii 
    WordPress
-   usage
    api
