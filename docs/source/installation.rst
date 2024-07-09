@@ -72,6 +72,12 @@ XAMPP
 
 Дождитесь завершения загрузки, перезагрузите машину и запустите vscode из «Меню» - «Программирование» 
 Если все проделанные шаги не принесли желпеого результата, просто скачиваем vscode для Linux, разархивируем папку с расширением .tagz и запускаем через терминал в папке bin ./code. 
+Или с официального сайта https://code.visualstudio.com/ выполняем команды
+
+.. code-block:: console
+
+   $ echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc" | sudo tee /etc/yum.repos.d/vscode.repo > /dev/null
+   $ dnf install code
 
 WordPress
 ----------
