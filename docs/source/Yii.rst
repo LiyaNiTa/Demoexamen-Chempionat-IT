@@ -268,6 +268,27 @@ Model View Controller (Модель-Представление-Контролл�
      }
  }
 
+Для вывода данных из таблицы необхлжимо помимо модели создать контроллер. 
+
+.. image:: /_static/orders.png
+   :alt: orders
+   :width: 700
+
+.. image:: /_static/ordersData.png
+   :alt: ordersData
+   :width: 700
+
+.. image:: /_static/ordersModel.png
+   :alt: ordersModel
+   :width: 700
+
+.. image:: /_static/ordersController.png
+   :alt: ordersController
+   :width: 700
+
+.. image:: /_static/ordersView.png
+   :alt: ordersView
+   :width: 700
 
 .. autosummary::
    :toctree: generated
