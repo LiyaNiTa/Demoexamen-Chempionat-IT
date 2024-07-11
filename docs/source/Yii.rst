@@ -176,6 +176,11 @@ Model View Controller (Модель-Представление-Контролл�
    :alt: usersModel
    :width: 700
 
+В случае ошибки открываем доступ к папке 
+
+.. image:: /_static/error.png
+   :alt: error
+   :width: 700
 
 
 .. autosummary::
