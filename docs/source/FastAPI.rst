@@ -28,29 +28,29 @@ FastAPI
 
 .. code-block:: console
 
-pip install fastapi[all]
+ pip install fastapi[all]
 
 Далее создадим файл main.py и в него вставим код ниже 
 
 .. code-block:: Python
 
-# подключаем фреймворк FastAPI
-from fastapi import FastAPI
-
-# создаем наше приложение. Слово app можно заменить налюбое другое
-app = FastAPI()
-
-# прописываем метод get: при загрузке сайта на главной странице / пользователь получит
-@app.get("/")
-# эту функцию, которая просто выводит текст
-def get_check_work():
-    return "Фреймворк FastAPI успешно установлен!"
+ # подключаем фреймворк FastAPI
+ from fastapi import FastAPI
+ 
+ # создаем наше приложение. Слово app можно заменить налюбое другое
+ app = FastAPI()
+ 
+ # прописываем метод get: при загрузке сайта на главной странице / пользователь получит
+ @app.get("/")
+ # эту функцию, которая просто выводит текст
+ def get_check_work():
+     return "Фреймворк FastAPI успешно установлен!"
  
 Для запуск в терминале напишем
 
 .. code-block:: console
 
-uvicorn main:app --reload
+ uvicorn main:app --reload
 
 .. image:: /_static/hello.png
    :alt: hello
