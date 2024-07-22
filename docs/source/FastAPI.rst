@@ -14,6 +14,18 @@ FastAPI
 Создана папка /home/rexam/trading_app и открыта в Visual Studio Code. Подключено виртульное окружение venv для установки библиотек
 
 
+.. image:: /_static/vs01api.png
+   :alt: vs01api
+   :width: 700
+
+Внизу справа нажав на номер верии мы можем выбирать окружение и через кнопку запуска увидим в терминале, что папка появилась
+
+.. image:: /_static/venv.png
+   :alt: venv
+   :width: 700
+
+
+
 
 
 .. autosummary::
