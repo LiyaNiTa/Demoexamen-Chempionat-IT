@@ -29,7 +29,8 @@ React
 
 .. code-block:: console  
   
-  cd react-intro
+  cd my_app
+  npm install react-router-dom
   npm start
 
 Тут мы переходим в папку проекта и запускаем сервер разработки, который позволяет открыть новое React-приложение, перейдя в браузере по адресу http://localhost:3000/.
