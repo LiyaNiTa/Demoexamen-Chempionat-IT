@@ -76,6 +76,15 @@ React
    :alt: laravel
    :width: 700
 
+Для создания контроллера вводим команду
+
+.. code-block:: console  
+  
+  cd moduleC
+  php artisan make:controller AuthController
+
+
+
 .. autosummary::
    :toctree: generated
 
