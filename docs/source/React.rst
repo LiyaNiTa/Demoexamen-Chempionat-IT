@@ -60,6 +60,7 @@ React
   curl -sS https://getcomposer.org/installer | php
   chmod 777 composer.phar 
   php composer.phar
+  mv composer.phar /usr/local/bin/composer
 
 .. image:: /_static/composer.png
    :alt: composer
