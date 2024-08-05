@@ -39,6 +39,42 @@ React
    :alt: react
    :width: 700
 
+Создание проекта Laravel
+--------------------------
+Перед созданием вашего первого проекта Laravel убедитесь, что на вашем локальном компьютере установлены PHP и Composer . 
+
+**PHP**
+Устанавливаем с правами root
+
+.. code-block:: console  
+  
+  dnf clean all
+  dnf makecache
+  dnf install php
+
+**Composer**
+Устанавливаем с правами root
+
+.. code-block:: console  
+  
+  curl -sS https://getcomposer.org/installer | php
+  chmod 777 composer.phar 
+  php composer.phar
+
+.. image:: /_static/composer.png
+   :alt: composer
+   :width: 700
+
+После установки PHP и Composer вы можете создать новый проект Laravel с помощью create-projectкоманды Composer:
+
+.. code-block:: console  
+  
+  composer create-project laravel/laravel moduleC
+
+.. image:: /_static/laravel.png
+   :alt: laravel
+   :width: 700
+
 .. autosummary::
    :toctree: generated
 
