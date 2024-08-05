@@ -83,7 +83,11 @@ React
   cd moduleC
   php artisan make:controller AuthController
 
+Для запуска
 
+.. code-block:: console
+  
+  php artisan serve
 
 .. autosummary::
    :toctree: generated
