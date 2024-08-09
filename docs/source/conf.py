@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Демоэкзамен по веб-разработке'
+project = 'Демоэкзаменs&Чемпионаты&IT'
 copyright = '2024, JV&LN'
 author = 'JV&LN'
 
