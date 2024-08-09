@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Демоэкзаменs&Чемпионаты&IT'
+project = 'Демоэкзамены&Чемпионаты&IT'
 copyright = '2024, JV&LN'
 author = 'JV&LN'
 
