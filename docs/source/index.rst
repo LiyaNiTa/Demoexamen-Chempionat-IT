@@ -1,3 +1,7 @@
+.. meta::
+    :description lang=ru:
+         Демоэкзамены&Чемпионаты&IT
+
 .. image:: /_static/logo.gif
    :alt: Гифка
    :width: 100
