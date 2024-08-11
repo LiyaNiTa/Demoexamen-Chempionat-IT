@@ -9,9 +9,7 @@ author = 'JV&LN'
 release = '0.1'
 version = '0.1.0'
 
-.. meta::
-    :description lang=ru:
-         Демоэкзамены&Чемпионаты&IT
+
 
 # -- General configuration
 
